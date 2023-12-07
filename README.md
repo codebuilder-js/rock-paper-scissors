@@ -1,0 +1,1 @@
+Just a Rock Paper Scissors basic game, written in JavaScript.
