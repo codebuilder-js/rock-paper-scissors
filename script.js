@@ -60,9 +60,3 @@ function defineWinner() {
     console.log(`THE TIE HAS BEEN PLANTED! FINAL SCORE - PLAYER: ${playerScore} | COMPUTER: ${computerScore}`);
   }
 }
-
-for(let i = 1; i <= 5; i++) {
-  rockPaperScissors(playerChoice, computerChoice());
-}
-
-defineWinner();
